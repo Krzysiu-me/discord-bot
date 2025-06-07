@@ -36,7 +36,7 @@ pip install nextcord
 4. Configure your bot
 
 ```
-    Copy your bot token and server (guild) ID into config.json:
+Copy your bot token and server (guild) ID into config.json:
 
 {
     "token": "YOUR_BOT_TOKEN",
