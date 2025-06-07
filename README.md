@@ -17,7 +17,7 @@ Getting Started
 
 ```
 git clone https://github.com/Krzysiu-me/discord-bot.git
-cd YOUR-BOT-REPO
+cd discord-bot
 ```
 
 2. Set up a virtual environment
