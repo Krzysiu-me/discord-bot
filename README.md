@@ -16,7 +16,7 @@ Getting Started
 1. Clone the repository
 
 ```
-git clone https://github.com/YOUR-USERNAME/YOUR-BOT-REPO.git
+git clone https://github.com/Krzysiu-me/discord-bot.git
 cd YOUR-BOT-REPO
 ```
 
